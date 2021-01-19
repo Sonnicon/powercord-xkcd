@@ -1,0 +1,7 @@
+{
+  "name": "XKCD",
+  "version": "1.0",
+  "description": "Command to post entries from the XKCD webcomic",
+  "author": "Sonnicon",
+  "license": "MIT"
+}
